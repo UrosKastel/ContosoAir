@@ -1,4 +1,4 @@
-
+[![Build Status](https://ukmsonline.visualstudio.com/ContosoAirGH/_apis/build/status/UrosKastel.ContosoAir?branchName=master)](https://ukmsonline.visualstudio.com/ContosoAirGH/_build/latest?definitionId=61&branchName=master)
 
 
 # Microsoft.Github CI Demo
