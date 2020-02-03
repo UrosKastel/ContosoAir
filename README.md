@@ -1,3 +1,4 @@
+[![Board Status](https://ukmsonline.visualstudio.com/6fd4ceaf-9d44-4676-9ed5-0ecbc37c693d/bbf907d6-e1aa-4c45-ac70-8b9ad640c04b/_apis/work/boardbadge/f75df6eb-74c4-418d-b74e-fad659cc686d)](https://ukmsonline.visualstudio.com/6fd4ceaf-9d44-4676-9ed5-0ecbc37c693d/_boards/board/t/bbf907d6-e1aa-4c45-ac70-8b9ad640c04b/Microsoft.RequirementCategory)
 [![Build Status](https://ukmsonline.visualstudio.com/ContosoAirGH/_apis/build/status/UrosKastel.ContosoAir?branchName=master)](https://ukmsonline.visualstudio.com/ContosoAirGH/_build/latest?definitionId=61&branchName=master)
 
 
